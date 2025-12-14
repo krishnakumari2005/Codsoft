@@ -6,4 +6,6 @@ This experience is all about strengthening my core Python concepts, improving lo
 
 Looking forward to consistent learning and building better with time.
 
+I’ll be documenting my learning journey and project progress here and on LinkedIn as I move forward.
+
 #Python #Internship #CODSOFT #Programming #SkillDevelopment
